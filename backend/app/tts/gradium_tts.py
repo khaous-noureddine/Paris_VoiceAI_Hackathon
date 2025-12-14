@@ -21,7 +21,7 @@ class GradiumTTS:
         api_key: str | None = None,
         base_url: str = "https://eu.api.gradium.ai/api",
         model_name: str = "default",
-        voice_id: str = "YTpq7expH9539ERJ",
+        voice_id: str = "axlOaUiFyOZhy4nv",
     ):
         """
         api_key: Gradium API key (or GRADIUM_API_KEY env var)
